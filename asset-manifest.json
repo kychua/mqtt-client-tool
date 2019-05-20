@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mqtt-client-tool/static/css/main.c68b488f.chunk.css",
+    "main.js": "/mqtt-client-tool/static/js/main.d7d37810.chunk.js",
+    "main.js.map": "/mqtt-client-tool/static/js/main.d7d37810.chunk.js.map",
+    "runtime~main.js": "/mqtt-client-tool/static/js/runtime~main.4db260a6.js",
+    "runtime~main.js.map": "/mqtt-client-tool/static/js/runtime~main.4db260a6.js.map",
+    "static/css/2.266e55a5.chunk.css": "/mqtt-client-tool/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3b2334db.chunk.js": "/mqtt-client-tool/static/js/2.3b2334db.chunk.js",
+    "static/js/2.3b2334db.chunk.js.map": "/mqtt-client-tool/static/js/2.3b2334db.chunk.js.map",
+    "index.html": "/mqtt-client-tool/index.html",
+    "precache-manifest.d4682613f4a4b9a0a42ef22bcc601c5e.js": "/mqtt-client-tool/precache-manifest.d4682613f4a4b9a0a42ef22bcc601c5e.js",
+    "service-worker.js": "/mqtt-client-tool/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/mqtt-client-tool/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.c68b488f.chunk.css.map": "/mqtt-client-tool/static/css/main.c68b488f.chunk.css.map"
+  }
+}
