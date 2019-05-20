@@ -1,0 +1,9 @@
+/* .timestamp {
+    font-size: 0.5rem;
+} */
+
+.hide-overflow {     
+    overflow: hidden;     
+    text-overflow: ellipsis;     
+    white-space: nowrap; 
+}
